@@ -1,0 +1,1 @@
+let g:terminal_emulator = 'kitty'
