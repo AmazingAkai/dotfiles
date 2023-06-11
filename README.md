@@ -1,0 +1,1 @@
+# Note: These dotfiles are personal and are not meant to be blindly copied and pasted onto your system. Proceed with caution, as they may potentially break your system.
