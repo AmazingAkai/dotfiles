@@ -307,4 +307,3 @@ wmname = "LG3D"
 def autostart():
     command = os.path.expanduser("~/.config/qtile/autostart.sh")
     subprocess.call([command])
-    top_bar.window.window.set_property("QTILE_BAR", 1, "CARDINAL", 32)  # type: ignore
